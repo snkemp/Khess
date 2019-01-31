@@ -1,0 +1,4 @@
+#! /env/dev/python
+
+from src import main
+main()
